@@ -18,7 +18,8 @@ import random
 # Actions are defined by direct control of wheel encoders:
 # - Set left/right wheel speeds (e.g., [-1, 0, 1] for backward, stop, forward)
 # - Stop
-#
+#P
+
 # Example actions: [('left_speed', 'right_speed')], e.g., (1, 1) for forward, (1, -1) for turn, (0, 0) for stop
 
 # For simplicity, define a small set of possible speed combinations:
