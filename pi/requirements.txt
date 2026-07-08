@@ -1,0 +1,15 @@
+# Raspberry Pi Requirements
+
+# Hardware Control
+RPi.GPIO>=0.7.1
+
+# Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# HTTP Client
+requests>=2.31.0
+
+# Optional: For local YOLO fallback (not recommended, too slow)
+# ultralytics>=8.0.0
+# torch>=2.0.0
