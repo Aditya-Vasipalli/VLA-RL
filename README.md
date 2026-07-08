@@ -180,7 +180,3 @@ If you want the shortest path into the code, start with these files in order:
 - The repo contains multiple iterations of the controller, including a more experimental hierarchical version under [pi/hierarchical_rl_main.py](pi/hierarchical_rl_main.py).
 - Some paths are designed for the full paper architecture, while others are practical fallbacks for simpler deployments.
 - If you want to present this in an interview, the strongest story is: “I built a robot control stack that stays safe and responsive despite slow multimodal inference by separating semantic reasoning from real-time control.”
-
-## License
-
-No explicit license is currently included in the repository.
